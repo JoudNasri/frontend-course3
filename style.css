@@ -1,0 +1,66 @@
+body{
+    background-color:rgba(51, 172, 27, 0.86);
+}
+.header{
+border: solid white;
+/* margin-top: 150px; */
+/* margin-left: 150px; */
+margin: 350px;
+width: 470px;
+background-color: white;
+height: 600px;
+padding: 30px;
+
+}
+.myclass{
+font-size: 30px;
+margin: 10px;
+color: rgb(163, 155, 145);
+}
+.link{
+font-size: 16px;
+margin: 10px;
+color:rgb(163, 155, 145);
+}
+.Document{
+padding: 10px;
+   width: 430px;
+   margin: 10px;
+}
+.Your{
+padding: 10px;
+width: 430px;
+margin: 10px
+}
+.Adress{
+padding: 10px;
+width: 430px;
+margin: 10px;
+}
+.rel{
+padding: 10px;
+width: 430px;
+margin: 10px;
+}
+.title{
+    padding: 10px;
+    width: 430px;
+    height: 100px;
+    margin: 10px;
+}
+.Web{
+padding: 10px;
+width: 455px;
+background-color:rgba(51, 172, 27, 0.86);
+margin: 10px;
+color: white;
+font-size: 25px;
+border: solid;
+}
+.colorlip{
+    margin: 5px;
+}
+.navbar{
+    margin: 30px 160px;
+    color: rgb(163, 155, 145);;
+}
